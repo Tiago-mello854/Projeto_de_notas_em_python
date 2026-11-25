@@ -1,2 +1,2 @@
-turma = input("Digite o nome da turma: ")
-quantidades_alunos = int(input("digite o número de alunos: "))
+pauta = []
+aluno1 = ["Tiago", 80, 90, 60]
